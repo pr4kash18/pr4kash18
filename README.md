@@ -54,7 +54,7 @@ I'm passionate about building **practical AI/ML solutions**, developing backend 
 <img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:cpchoubisha18@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=cpchoubisa18@gmail.com">
 <img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -179,7 +179,6 @@ Practicing <b>Data Structures & Algorithms using Java</b> to strengthen problem-
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=pr4kash18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
 
 <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=pr4kash18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
 
