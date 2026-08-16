@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Developer | Java | DSA | Python | Machine Learning Projects | Open to Internships
+Aspiring AI/ML Developer | Java | DSA | Python | Machine Learning Projects | Open to Internships
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chandra.pr4kash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandra-prakash-choubisa-0526653b7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cpr4kash18@gmail.com) 
