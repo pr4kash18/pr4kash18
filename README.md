@@ -1,68 +1,226 @@
-# 💫 About Me:
-Aspiring AI/ML Developer | Java | DSA | Python | Machine Learning Projects | Open to Internships
+<!-- ========================= HEADER ========================= -->
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chandra.pr4kash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandra-prakash-choubisa-0526653b7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cpr4kash18@gmail.com) 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:5B2C83&height=220&section=header&text=Chandra%20Prakash%20Choubisa&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pr4kash18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pr4kash18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pr4kash18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning+%7C+FastAPI;Java+%7C+DSA+%7C+Python;Building+Practical+AI%2FML+Solutions+%F0%9F%9A%80" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pr4kash18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pr4kash18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pr4kash18&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pr4kash18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 About Me
 
+> **5th Semester B.Tech CSE Student | Aspiring AI/ML Engineer**
 
+I'm passionate about building **practical AI/ML solutions**, developing backend APIs, and continuously improving my problem-solving skills.
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://pr4kash18.github.io/portfolio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandra-prakash-choubisa-0526653b7) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/chandra-pr4kash) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cpchoubisa18@gmail.com) [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/chandra_pr4kash) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chandra.pr4kash)
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pr4kash18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pr4kash18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pr4kash18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pr4kash18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pr4kash18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+* 🤖 Focused on **Machine Learning & Deep Learning**
+* 🐍 Working with **Python, Scikit-learn, TensorFlow & Keras**
+* ⚡ Building ML-powered APIs using **FastAPI**
+* ☕ Practicing **Data Structures & Algorithms in Java**
+* 🧠 Solved **60+ problems on LeetCode**
+* 🏢 Completed a **2-Month AI/ML Internship at GRRAS Solutions**
+* 🚀 Preparing for **AI/ML Engineer Internships & Full-Time Opportunities**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pr4kash18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://pr4kash18.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/chandra-prakash-choubisa-0526653b7">
+<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/chandra-pr4kash/">
+<img src="https://img.shields.io/badge/LeetCode-A78BFA?style=for-the-badge&logo=leetcode&logoColor=111827"/>
+</a>
+
+<a href="https://github.com/pr4kash18">
+<img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/chandra.pr4kash">
+<img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:cpchoubisha18@gmail.com">
+<img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Java-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-6366F1?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-4F46E5?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-4338CA?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-8B5CF6?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-6366F1?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-7C3AED?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-5B21B6?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-4338CA?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-312E81?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+
+</p>
+
+### ⚡ Backend & APIs
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/FastAPI-8B5CF6?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-6366F1?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-4F46E5?style=for-the-badge&logo=django&logoColor=white"/>
+
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/MySQL-6366F1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-7C3AED?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-5B21B6?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-4338CA?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-8B5CF6?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+</p>
+
+### 🧰 Developer Tools
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+</p>
+
+---
+
+# 🧠 Currently Learning
+
+```text
+Machine Learning
+      │
+      ├── Deep Learning
+      │
+      ├── Neural Networks
+      │
+      ├── Computer Vision
+      │
+      ├── Natural Language Processing
+      │
+      ├── ML Model Deployment
+      │
+      ├── FastAPI
+      │
+      └── Advanced DSA in Java
+```
+
+---
+
+# 💼 Experience
+
+### 🏢 AI/ML Intern — GRRAS Solutions
+
+**Duration:** 2 Months
+
+Worked on learning and implementing concepts related to **Artificial Intelligence and Machine Learning**, gaining practical exposure to the ML development workflow.
+
+---
+
+# 🧩 LeetCode
+
+<p align="center">
+
+<a href="https://leetcode.com/u/chandra-pr4kash/">
+
+<img src="https://img.shields.io/badge/60%2B%20Problems%20Solved-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+Practicing <b>Data Structures & Algorithms using Java</b> to strengthen problem-solving and coding skills.
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=pr4kash18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
+
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=pr4kash18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=pr4kash18&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Strong+AI%2FML+Projects;Improving+DSA+with+Java;Learning+Deep+Learning;Building+ML+APIs+with+FastAPI;Preparing+for+AI%2FML+Engineering+Roles" />
+
+</p>
+
+---
+
+# ⭐ Profile
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=pr4kash18&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+### 💜 Thanks for visiting my profile!
+
+**Always learning. Always building. Always improving.**
+
+</p>
+
+<!-- ========================= FOOTER ========================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B2C83,50:302B63,100:0F0C29&height=120&section=footer" />
+</p>
